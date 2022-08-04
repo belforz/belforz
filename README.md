@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @belforz
+- 👋 Hi, I'm Leandro
 - 👀 I’m interested in cinema
 - 🌱 I’m currently learning analyses and development
 - 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me try to send me a nude lol
+- 📫 How to reach me 
 
 <!---
 belforz/belforz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
