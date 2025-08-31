@@ -52,6 +52,8 @@ Inglês e Espanhol
 
 ## Status
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belforz&langs_count=10)
+
 
 <a href="https://github.com/berlforz">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=belforz&show_icons=true&theme=dracula&line_height=27" alt="**Leandro Belfor** github stats"/>
