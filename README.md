@@ -52,9 +52,9 @@ Inglês e Espanhol
 
 ## Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belforz&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belforz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belforz&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belforz)
 
 
 [linkedin]: https://www.linkedin.com/in/leandro-belfor-ba3640143/
